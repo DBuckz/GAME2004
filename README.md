@@ -17,6 +17,7 @@
 ## Reading
 - Ferrone, Harrison (2019) Learning C# by Developing Games with Unity 2019, 4th Ed., Packt Publishing
 - Buckland, Mat (2005) Programming Game AI by Example, Worldware Publishing Inc
+- The Art of the Deal
 
 
 # Week 3
@@ -51,3 +52,4 @@
 #### Game maths:
 - [Game maths tutorial](http://www.wildbunny.co.uk/blog/vector-maths-a-primer-for-games-programmers/)
 - [Unity Vector Cookbook](https://docs.unity3d.com/Manual/VectorCookbook.html)
+
